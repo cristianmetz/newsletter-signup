@@ -75,12 +75,3 @@
     app.listen(process.env.PORT || 3000, function () {
         console.log("Server is running.")
     });
-
-
-    /* API Key
-    5e2a9a0de535e9ad50c64d4f67a64cec-us14
-    */
-
-    /* Mailchimp Audience ID
-    2748138763
-    */
