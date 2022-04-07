@@ -1,3 +1,6 @@
+    //require dotenv for secure key handling
+    require("dotenv").config();
+    console.log(process.env);
     //require installed node packages
     const express = require("express");
     const https = require("https");
@@ -21,8 +24,8 @@
 
     //Mailchimp Authentication
     mailchimp.setConfig({
-        apiKey: "5e2a9a0de535e9ad50c64d4f67a64cec",
-        server: "us14",
+        apiKey: process.env.MAILCHIMP_NEWSLETTER_SIGNUP_TOKEN,
+        server: process.env.MAILCHIMP_SERVER,
     });
     //Mailchimp response: Health Status
     async function run() {
@@ -37,7 +40,7 @@
         const firstName = req.body.fName;
         const lastName = req.body.lName;
         const email = req.body.eAddress;
-        const listId = "2748138763"
+        const listId = process.env.MAILCHIMP_LIST_ID;
 
         const subscribingUser = {
             firstName: firstName,
