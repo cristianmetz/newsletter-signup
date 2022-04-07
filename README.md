@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
 
+- 🔭 Checkout hits project DEMO [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
+
 <h3 align="left">Connect with me: c.metz@outlook.com</h3>
 <p align="left">
 </p>
@@ -16,7 +18,7 @@
 <p align="center">
 <img src="public/images/success.PNG">
 </P>
-<h3 align="left">Unsuccessful Sign-up:/h3>
+<h3 align="left">Unsuccessful Sign-up:</h3>
 <p align="center">
 <img src="public/images/failure.PNG">
 </P>
