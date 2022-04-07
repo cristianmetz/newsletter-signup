@@ -1,6 +1,5 @@
     //require dotenv for secure key handling
     require("dotenv").config();
-    console.log(process.env);
     //require installed node packages
     const express = require("express");
     const https = require("https");
