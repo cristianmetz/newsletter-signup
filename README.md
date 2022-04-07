@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
 
-- 🔭 Checkout hits project DEMO [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
+- 🔭 Checkout this project DEMO [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
 
 <h3 align="left">Connect with me: c.metz@outlook.com</h3>
 <p align="left">
