@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋, I'm Cristian Metz</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/) - CLICK FOR DEMO
+- 🔭 I’m currently working on [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
 
 <h3 align="left">Connect with me: c.metz@outlook.com</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Homepage</h3>
+<h3 align="left">Homepage:</h3>
 <p align="center">
 <img src="public/images/index.png">
 </P>
-<h3 align="left">Successful Sign-up</h3>
+<h3 align="left">Successful Sign-up:</h3>
 <p align="center">
 <img src="public/images/success.PNG">
 </P>
-<h3 align="left">Unsuccessful Sign-up</h3>
+<h3 align="left">Unsuccessful Sign-up:/h3>
 <p align="center">
 <img src="public/images/failure.PNG">
 </P>
