@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Metz</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
+- 🔭 I’m currently working on [To-Do List](https://shrouded-sierra-51161.herokuapp.com/)
 
 - 🔭 Checkout this project DEMO [Newsletter Signup](https://shielded-scrubland-94427.herokuapp.com/)
 
